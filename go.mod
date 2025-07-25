@@ -1,4 +1,4 @@
-module golang.org/x/oauth2
+module github.com/mattiasavelin/oauth2
 
 go 1.23.0
 
